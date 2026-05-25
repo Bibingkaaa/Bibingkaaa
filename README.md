@@ -1,62 +1,52 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+# README
 
-###
+## 👋 Hi! My name is Mary Hannah.
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+### **An Aspiring Web Developer**
 
-<img align="right" height="200" width="200" src="https://i.imgflip.com/asnojq.gif"  />
+[](https://img.shields.io/badge/FOCUSED%20ON%20CREATING-INNOVATIVE%20Community--driven%20software-brightgreen?style=for-the-badge)
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img alt="Static Badge" src="https://img.shields.io/badge/https%3A%2F%2Fportfolio-beta-sage-d57vf807oo.vercel.app%2F?style=flat&logo=vercel&logoColor=%23ffffff&logoSize=auto&label=Portfolio&color=%23fcba03&cacheSeconds=3600">
+### Connect with me! 🌟
 
-</div>
+[](https://img.shields.io/badge/PORTFOLIO-yellow?style=for-the-badge)
 
-###
+[](https://img.shields.io/badge/LINKEDIN-%20%230e76a8?style=for-the-badge&cacheSeconds=3600&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmary-hannah-caryl-reyes-3b360a258%2F)
 
-### Tech Stack
+[](https://img.shields.io/badge/FACEBOOK-%20%231877F2?style=for-the-badge&logo=facebook&logoColor=%23fff&logoSize=auto&cacheSeconds=3600&link=https%3A%2F%2Fwww.facebook.com%2Fmurryhunnuh%2F)
 
-| Category | Badges |
-| --- | --- |
-| Frontend | <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-%20%23e34c26?style=for-the-badge&logo=HTML5&logoColor=%23fff&logoSize=auto&cacheSeconds=3600"> <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-%23264de4?style=for-the-badge&logoColor=%23FFF&logoSize=auto&cacheSeconds=3600"> <img alt="Static Badge" src="https://img.shields.io/badge/TAILWIND-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=%23fff&logoSize=auto&cacheSeconds=3600"><br/><img alt="Static Badge" src="https://img.shields.io/badge/REACT-%23061F25?style=for-the-badge&logo=react&logoColor=%2337C0E4&logoSize=auto&cacheSeconds=3600"> <img alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-%23F0DB4F?style=for-the-badge&logo=javascript&logoColor=%23000000&logoSize=auto&cacheSeconds=3600"> <img alt="Static Badge" src="https://img.shields.io/badge/TYPESCRIPT-%233178C6?style=for-the-badge&logo=typescript&logoColor=%23fff&logoSize=auto&cacheSeconds=3600"> |
-| Backend | <img alt="Static Badge" src="https://img.shields.io/badge/LARAVEL-%23F05340?style=for-the-badge&logo=laravel&logoColor=%23fff&logoSize=auto&cacheSeconds=3600"> <img alt="Static Badge" src="https://img.shields.io/badge/PYTHON-%23306998?style=for-the-badge&logo=python&logoColor=%23fff&logoSize=auto&cacheSeconds=3600"> <img alt="Static Badge" src="https://img.shields.io/badge/JAVA-%23F89820?style=for-the-badge&logo=java&logoColor=%23fff&logoSize=auto&cacheSeconds=3600"> |
-| Tools | <img alt="Static Badge" src="https://img.shields.io/badge/FIGMA-%239747FF?style=for-the-badge&logo=figma&logoColor=%23fff&logoSize=auto&cacheSeconds=3600"> <img alt="Static Badge" src="https://img.shields.io/badge/VERCEL-%23151013?style=for-the-badge&logo=vercel&logoColor=%23fff&logoSize=auto&cacheSeconds=3600"> <img alt="Static Badge" src="https://img.shields.io/badge/JIRA-%230052CC?style=for-the-badge&logo=jira&logoColor=%23FFF&logoSize=auto&cacheSeconds=3600"><br/><img alt="Static Badge" src="https://img.shields.io/badge/POSTMAN-%23EF5B25?style=for-the-badge&logo=postman&logoColor=%23FFF&logoSize=auto&cacheSeconds=3600"> <img alt="Static Badge" src="https://img.shields.io/badge/VS%20CODE-%230085D0?style=for-the-badge&logoColor=%23FFF&logoSize=auto&cacheSeconds=3600"> <img alt="Static Badge" src="https://img.shields.io/badge/ADOBE%20SUITE-%23ED2224?style=for-the-badge&logoColor=%23FFF&logoSize=auto&cacheSeconds=3600"> |
-| Database | <img alt="Static Badge" src="https://img.shields.io/badge/MYSQL-%23F29111?style=for-the-badge&logo=mysql&logoColor=%23FFF&logoSize=auto&cacheSeconds=3600"> <img alt="Static Badge" src="https://img.shields.io/badge/SQLITE-%23003B57?style=for-the-badge&logo=sqlite&logoColor=%23FFF&logoSize=auto&cacheSeconds=3600"> <img alt="Static Badge" src="https://img.shields.io/badge/MS%20SQL-%23CC2927?style=for-the-badge&logoColor=%23FFF&logoSize=auto&cacheSeconds=3600"> |
+![](https://i.imgflip.com/asnojq.gif)
 
-###
+**About Me 👩**
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+A diligent Information Technology graduate from Bulacan State University under specialization in Web and Mobile Application Development. I love crossing the intersections of clean code, user experience, and quality software delivery with a strong academic foundation (GWA: 1.21) and relevant internship experience.
 
-###
+🛠️ **What I Build With:** Front-End Development (React, TypeScript, Tailwind CSS, Vite), UI/UX Prototyping (Figma), API Integration, and Software QA Testing
 
-<br clear="both">
+🚀 **Leveling Up In:** Advanced server-state management (TanStack Query) and expanding my full-stack capabilities (React + Laravel)
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
+🤝 **Let's Build:** Innovative front-end web applications, responsive UI/UX designs, or quality assurance testing projects
+
+🗣️ **Let's Chat About:** Figma Auto Layout, building responsive React components, creating standard-compliant test scripts, or mechanical keyboard modding!
+
+✉️ **How to reach me:** [reyesmaryhannahcaryl@gmail.com](mailto:reyesmaryhannahcaryl@gmail.com) 
+
+### Tech Stack 🛠️
+
+An overview of the languages, frameworks, and tools I use most often:
+
+[Untitled](Untitled%2036bb57c6fb34816fa000cac029d91583.csv)
+
+### 
+
+**Awards & Achievements** 🏆 
+
+- Academic Excellence: Magna Cum Laude, President's Lister, and recipient of the Award of Excellence in Computer Programming.
+- Creative Competitions: 2x Champion in IRCITE and RAITE Video Editing Competitions (2024 & 2025).
+
+### 
 
 ###
