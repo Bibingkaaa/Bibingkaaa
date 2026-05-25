@@ -44,14 +44,16 @@ A diligent Information Technology graduate from Bulacan State University under s
 
 An overview of the languages, frameworks, and tools I use most often:
 
-<table width="100%">
+<div align="center">
+
+<table width="100%" align="center">
 	<tr>
 		<th align="left">Category</th>
 		<th align="left">Badges</th>
 	</tr>
 	<tr>
-		<td width="160" valign="top"><b>Frontend</b></td>
-		<td>
+		<td width="25%" valign="top"><b>Frontend</b></td>
+		<td width="75%">
 			<img alt="Static Badge" src="https://img.shields.io/badge/HTML5-%20%23e34c26?style=for-the-badge&logo=HTML5&logoColor=%23fff&logoSize=auto&cacheSeconds=3600">
 			<img alt="Static Badge" src="https://img.shields.io/badge/CSS3-%23264de4?style=for-the-badge&logoColor=%23FFF&logoSize=auto&cacheSeconds=3600">
 			<img alt="Static Badge" src="https://img.shields.io/badge/TAILWIND-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=%23fff&logoSize=auto&cacheSeconds=3600">
@@ -62,16 +64,16 @@ An overview of the languages, frameworks, and tools I use most often:
 		</td>
 	</tr>
 	<tr>
-		<td width="160" valign="top"><b>Backend</b></td>
-		<td>
+		<td width="25%" valign="top"><b>Backend</b></td>
+		<td width="75%">
 			<img alt="Static Badge" src="https://img.shields.io/badge/LARAVEL-%23F05340?style=for-the-badge&logo=laravel&logoColor=%23fff&logoSize=auto&cacheSeconds=3600">
 			<img alt="Static Badge" src="https://img.shields.io/badge/PYTHON-%23306998?style=for-the-badge&logo=python&logoColor=%23fff&logoSize=auto&cacheSeconds=3600">
 			<img alt="Static Badge" src="https://img.shields.io/badge/JAVA-%23F89820?style=for-the-badge&logo=java&logoColor=%23fff&logoSize=auto&cacheSeconds=3600">
 		</td>
 	</tr>
 	<tr>
-		<td width="160" valign="top"><b>Tools</b></td>
-		<td>
+		<td width="25%" valign="top"><b>Tools</b></td>
+		<td width="75%">
 			<img alt="Static Badge" src="https://img.shields.io/badge/FIGMA-%239747FF?style=for-the-badge&logo=figma&logoColor=%23fff&logoSize=auto&cacheSeconds=3600">
 			<img alt="Static Badge" src="https://img.shields.io/badge/VERCEL-%23151013?style=for-the-badge&logo=vercel&logoColor=%23fff&logoSize=auto&cacheSeconds=3600">
 			<img alt="Static Badge" src="https://img.shields.io/badge/JIRA-%230052CC?style=for-the-badge&logo=jira&logoColor=%23FFF&logoSize=auto&cacheSeconds=3600">
@@ -82,14 +84,16 @@ An overview of the languages, frameworks, and tools I use most often:
 		</td>
 	</tr>
 	<tr>
-		<td width="160" valign="top"><b>Database</b></td>
-		<td>
+		<td width="25%" valign="top"><b>Database</b></td>
+		<td width="75%">
 			<img alt="Static Badge" src="https://img.shields.io/badge/MYSQL-%23F29111?style=for-the-badge&logo=mysql&logoColor=%23FFF&logoSize=auto&cacheSeconds=3600">
 			<img alt="Static Badge" src="https://img.shields.io/badge/SQLITE-%23003B57?style=for-the-badge&logo=sqlite&logoColor=%23FFF&logoSize=auto&cacheSeconds=3600">
 			<img alt="Static Badge" src="https://img.shields.io/badge/MS%20SQL-%23CC2927?style=for-the-badge&logoColor=%23FFF&logoSize=auto&cacheSeconds=3600">
 		</td>
 	</tr>
 </table>
+
+</div>
 
 ###
 
