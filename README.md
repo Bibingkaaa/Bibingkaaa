@@ -27,6 +27,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img alt="Static Badge" src="https://img.shields.io/badge/https%3A%2F%2Fportfolio-beta-sage-d57vf807oo.vercel.app%2F?style=flat&logo=vercel&logoColor=%23ffffff&logoSize=auto&label=Portfolio&color=%23fcba03&cacheSeconds=3600">
+
 </div>
 
 ###
