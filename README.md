@@ -1,24 +1,32 @@
-# README
+<div align="center">
 
-## 👋 Hi! My name is Mary Hannah.
+<h2>👋 Hi! My name is Mary Hannah.</h2>
 
----
+<hr/>
 
-### **An Aspiring Web Developer**
+<h3><b>An Aspiring Web Developer</b></h3>
 
-[](https://img.shields.io/badge/FOCUSED%20ON%20CREATING-INNOVATIVE%20Community--driven%20software-brightgreen?style=for-the-badge)
+<img alt="Focused on creating innovative community-driven software" src="https://img.shields.io/badge/FOCUSED%20ON%20CREATING-INNOVATIVE%20Community--driven%20software-brightgreen?style=for-the-badge" />
 
----
+<hr/>
 
-### Connect with me! 🌟
+<h3>Connect with me! 🌟</h3>
 
-[](https://img.shields.io/badge/PORTFOLIO-yellow?style=for-the-badge)
+<a href="https://portfolio-beta-sage-d57vf807oo.vercel.app/" target="_blank" rel="noopener noreferrer">
+	<img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-yellow?style=for-the-badge" />
+</a>
+<a href="https://www.linkedin.com/in/mary-hannah-caryl-reyes-3b360a258/" target="_blank" rel="noopener noreferrer">
+	<img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-%20%230e76a8?style=for-the-badge&cacheSeconds=3600" />
+</a>
+<a href="https://www.facebook.com/murryhunnuh/" target="_blank" rel="noopener noreferrer">
+	<img alt="Facebook" src="https://img.shields.io/badge/FACEBOOK-%20%231877F2?style=for-the-badge&logo=facebook&logoColor=%23fff&logoSize=auto&cacheSeconds=3600" />
+</a>
 
-[](https://img.shields.io/badge/LINKEDIN-%20%230e76a8?style=for-the-badge&cacheSeconds=3600&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmary-hannah-caryl-reyes-3b360a258%2F)
+<br/>
 
-[](https://img.shields.io/badge/FACEBOOK-%20%231877F2?style=for-the-badge&logo=facebook&logoColor=%23fff&logoSize=auto&cacheSeconds=3600&link=https%3A%2F%2Fwww.facebook.com%2Fmurryhunnuh%2F)
+<img src="https://i.imgflip.com/asnojq.gif" alt="Animated gif" height="200" />
 
-![](https://i.imgflip.com/asnojq.gif)
+</div>
 
 **About Me 👩**
 
@@ -38,7 +46,16 @@ A diligent Information Technology graduate from Bulacan State University under s
 
 An overview of the languages, frameworks, and tools I use most often:
 
-[Untitled](Untitled%2036bb57c6fb34816fa000cac029d91583.csv)
+### Tech Stack
+
+| Category | Badges |
+| --- | --- |
+| Frontend | <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-%20%23e34c26?style=for-the-badge&logo=HTML5&logoColor=%23fff&logoSize=auto&cacheSeconds=3600"> <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-%23264de4?style=for-the-badge&logoColor=%23FFF&logoSize=auto&cacheSeconds=3600"> <img alt="Static Badge" src="https://img.shields.io/badge/TAILWIND-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=%23fff&logoSize=auto&cacheSeconds=3600"><br/><img alt="Static Badge" src="https://img.shields.io/badge/REACT-%23061F25?style=for-the-badge&logo=react&logoColor=%2337C0E4&logoSize=auto&cacheSeconds=3600"> <img alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-%23F0DB4F?style=for-the-badge&logo=javascript&logoColor=%23000000&logoSize=auto&cacheSeconds=3600"> <img alt="Static Badge" src="https://img.shields.io/badge/TYPESCRIPT-%233178C6?style=for-the-badge&logo=typescript&logoColor=%23fff&logoSize=auto&cacheSeconds=3600"> |
+| Backend | <img alt="Static Badge" src="https://img.shields.io/badge/LARAVEL-%23F05340?style=for-the-badge&logo=laravel&logoColor=%23fff&logoSize=auto&cacheSeconds=3600"> <img alt="Static Badge" src="https://img.shields.io/badge/PYTHON-%23306998?style=for-the-badge&logo=python&logoColor=%23fff&logoSize=auto&cacheSeconds=3600"> <img alt="Static Badge" src="https://img.shields.io/badge/JAVA-%23F89820?style=for-the-badge&logo=java&logoColor=%23fff&logoSize=auto&cacheSeconds=3600"> |
+| Tools | <img alt="Static Badge" src="https://img.shields.io/badge/FIGMA-%239747FF?style=for-the-badge&logo=figma&logoColor=%23fff&logoSize=auto&cacheSeconds=3600"> <img alt="Static Badge" src="https://img.shields.io/badge/VERCEL-%23151013?style=for-the-badge&logo=vercel&logoColor=%23fff&logoSize=auto&cacheSeconds=3600"> <img alt="Static Badge" src="https://img.shields.io/badge/JIRA-%230052CC?style=for-the-badge&logo=jira&logoColor=%23FFF&logoSize=auto&cacheSeconds=3600"><br/><img alt="Static Badge" src="https://img.shields.io/badge/POSTMAN-%23EF5B25?style=for-the-badge&logo=postman&logoColor=%23FFF&logoSize=auto&cacheSeconds=3600"> <img alt="Static Badge" src="https://img.shields.io/badge/VS%20CODE-%230085D0?style=for-the-badge&logoColor=%23FFF&logoSize=auto&cacheSeconds=3600"> <img alt="Static Badge" src="https://img.shields.io/badge/ADOBE%20SUITE-%23ED2224?style=for-the-badge&logoColor=%23FFF&logoSize=auto&cacheSeconds=3600"> |
+| Database | <img alt="Static Badge" src="https://img.shields.io/badge/MYSQL-%23F29111?style=for-the-badge&logo=mysql&logoColor=%23FFF&logoSize=auto&cacheSeconds=3600"> <img alt="Static Badge" src="https://img.shields.io/badge/SQLITE-%23003B57?style=for-the-badge&logo=sqlite&logoColor=%23FFF&logoSize=auto&cacheSeconds=3600"> <img alt="Static Badge" src="https://img.shields.io/badge/MS%20SQL-%23CC2927?style=for-the-badge&logoColor=%23FFF&logoSize=auto&cacheSeconds=3600"> |
+
+###
 
 ### 
 
